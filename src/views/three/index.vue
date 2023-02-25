@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h1>wwww</h1>
+        <h1>我的第一个three</h1>
     </div>
 </template>
 
